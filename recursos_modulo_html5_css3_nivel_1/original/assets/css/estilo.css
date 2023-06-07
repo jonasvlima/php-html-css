@@ -113,6 +113,29 @@ body {
     overflow: auto;
 }
 
+.container-servico h1 {
+    font-size: 3em;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.container-servico h3 {
+    color: #2097ff;
+    padding: 20px 0px;
+}
+
+.container-servico article {
+    width: 40%;
+    margin: auto;
+    float: center;
+}
+
+.container-servico li {
+    margin-bottom: 20px;
+    margin-left: 50px;
+    color: white;
+}
+
 
 footer {
     text-align: center;
